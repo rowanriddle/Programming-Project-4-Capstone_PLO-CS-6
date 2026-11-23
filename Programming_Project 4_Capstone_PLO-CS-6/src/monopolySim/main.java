@@ -1,10 +1,10 @@
 package monopolySim;
 
-/**
- * board, square, square type, player, dice
- * 
- * 
- */
-public class main {
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
 
 }

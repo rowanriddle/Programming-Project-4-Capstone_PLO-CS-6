@@ -5,6 +5,6 @@ package monopolySim;
  * 
  * 
  */
-public class engine {
+public class Engine {
 
 }
